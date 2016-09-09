@@ -8,7 +8,7 @@
     ],
     "description": "Very simple yet effective sharing buttons Leaflet control http://makinacorpus.github.io/Leaflet.Social/",
     "main": [
-        "leaflet.social.css",
+        "leaflet.social.js",
         "leaflet.social.css"
     ],
     "keywords": [
